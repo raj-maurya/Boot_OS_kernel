@@ -1,8 +1,9 @@
 #Boot_OS_kernel
  This repository contains the codes of booting a linux kernel from scratch in C and asm.
- " Trying to build a small OS(bootloader)"
-Visit
-http://raj-maurya.github.io/Boot_OS_kernel/
+ "Small OS(bootloader)"
+
+
+Visit: http://raj-maurya.github.io/Boot_OS_kernel/
 
 #Any suggestion as well as contributions are welcome...
 
