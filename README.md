@@ -7,9 +7,6 @@ Visit: http://raj-maurya.github.io/Boot_OS_kernel/
 
 #Suggestions as well as contributions are welcome...
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/raj-maurya/boot_os_kernel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/raj-maurya/boot_os_kernel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
