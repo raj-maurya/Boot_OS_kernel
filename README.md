@@ -1,4 +1,4 @@
-#Boot_OS_kernel
+#Boot_OS_kernel (Bootloader)
  This repository contains the codes of booting a linux kernel from scratch in C and asm.
  "OS(bootloader)"
 
